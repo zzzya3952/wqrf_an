@@ -1,9 +1,8 @@
 <template>
   <div>
-    <button>数据1</button>
-    <button>数据2</button>
+    <button>选择数据1</button>
+    <button>选择数据2</button>
   </div>
-
 </template>
 
 <script>

@@ -1,9 +1,8 @@
 <template>
   <div>
-    <button>debug</button>
-    <button>rele</button>
+    <button>选择debug</button>
+    <button>选择release</button>
   </div>
-
 </template>
 
 <script>

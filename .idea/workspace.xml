@@ -4,12 +4,150 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f7ef36a-bfc9-486d-aed2-eac53f259811" name="默认更改列表" comment="test3">
+    <list default="true" id="0f7ef36a-bfc9-486d-aed2-eac53f259811" name="默认更改列表" comment="six">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/7b1e7b6f956936e33b8ff7e73b11a9b1.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/7b1e7b6f956936e33b8ff7e73b11a9b1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/7cf1fb919ce40b42154ea59c8458c0ec.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/7cf1fb919ce40b42154ea59c8458c0ec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/18a9ca086518528aa569587328974331.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/18a9ca086518528aa569587328974331.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/6150c4dde24a910db12f836fb4ff6963.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/6150c4dde24a910db12f836fb4ff6963.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/9fed836d449917173844951b959d5717.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/9fed836d449917173844951b959d5717.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/c65638057a8b358639fe2899e127c229.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/c65638057a8b358639fe2899e127c229.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/cca9adde98fc2a5f73e7f9df4a2e01d3.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/cca9adde98fc2a5f73e7f9df4a2e01d3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/f1a370874a532fca89a34879ce5ec0e9.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/f1a370874a532fca89a34879ce5ec0e9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/caniuse-lite/data/features/css-overscroll-behavior.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/caniuse-lite/data/features/css-overscroll-behavior.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/caniuse-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/caniuse-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/chromium-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/chromium-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/chromium-versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/chromium-versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/full-chromium-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/full-chromium-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/full-chromium-versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/full-chromium-versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/full-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/full-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/full-versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/full-versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/electron-to-chromium/versions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/ArrayCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/ArrayCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/Get.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/Get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/GetMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/GetMethod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/GetOwnPropertyKeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/GetOwnPropertyKeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/GetV.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/GetV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/IsExtensible.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/IsExtensible.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/SetIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/SetIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/StringCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/StringCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/TestIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2015/TestIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/ArrayCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/ArrayCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/Get.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/Get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/GetMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/GetMethod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/GetOwnPropertyKeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/GetOwnPropertyKeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/GetV.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/GetV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/IsExtensible.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/IsExtensible.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/IterableToArrayLike.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/IterableToArrayLike.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/OrdinarySetPrototypeOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/OrdinarySetPrototypeOf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/SetIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/SetIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/StringCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/StringCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/TestIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2016/TestIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/ArrayCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/ArrayCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/Get.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/Get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/GetMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/GetMethod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/GetOwnPropertyKeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/GetOwnPropertyKeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/GetV.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/GetV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/IsExtensible.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/IsExtensible.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/OrdinarySetPrototypeOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/OrdinarySetPrototypeOf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/SetIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/SetIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/StringCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/StringCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/TestIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2017/TestIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/ArrayCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/ArrayCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/CopyDataProperties.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/CopyDataProperties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/EnumerableOwnPropertyNames.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/EnumerableOwnPropertyNames.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/Get.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/Get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/GetMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/GetMethod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/GetOwnPropertyKeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/GetOwnPropertyKeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/GetV.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/GetV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/IsExtensible.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/IsExtensible.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/OrdinarySetPrototypeOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/OrdinarySetPrototypeOf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/SetIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/SetIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/StringCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/StringCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/TestIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2018/TestIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/ArrayCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/ArrayCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/CopyDataProperties.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/CopyDataProperties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/EnumerableOwnPropertyNames.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/EnumerableOwnPropertyNames.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/Get.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/Get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/GetMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/GetMethod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/GetOwnPropertyKeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/GetOwnPropertyKeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/GetV.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/GetV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/IsExtensible.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/IsExtensible.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/OrdinarySetPrototypeOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/OrdinarySetPrototypeOf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/SetIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/SetIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/StringCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/StringCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/TestIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2019/TestIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/ArrayCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/ArrayCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/BigIntBitwiseOp.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/BigIntBitwiseOp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/CopyDataProperties.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/CopyDataProperties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/CreateRegExpStringIterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/CreateRegExpStringIterator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/EnumerableOwnPropertyNames.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/EnumerableOwnPropertyNames.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/Get.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/Get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/GetMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/GetMethod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/GetOwnPropertyKeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/GetOwnPropertyKeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/GetV.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/GetV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/IsExtensible.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/IsExtensible.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/IsUnclampedIntegerElementType.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/IsUnclampedIntegerElementType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/IsUnsignedElementType.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/IsUnsignedElementType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/Number/exponentiate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/Number/exponentiate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/OrdinarySetPrototypeOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/OrdinarySetPrototypeOf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/SetIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/SetIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/StringCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/StringCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/TestIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2020/TestIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/ArrayCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/ArrayCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/BigIntBitwiseOp.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/BigIntBitwiseOp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/CopyDataProperties.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/CopyDataProperties.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/CreateRegExpStringIterator.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/CreateRegExpStringIterator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/EnumerableOwnPropertyNames.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/EnumerableOwnPropertyNames.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/Get.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/Get.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/GetMethod.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/GetMethod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/GetOwnPropertyKeys.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/GetOwnPropertyKeys.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/GetV.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/GetV.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/IsExtensible.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/IsExtensible.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/IsUnclampedIntegerElementType.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/IsUnclampedIntegerElementType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/IsUnsignedElementType.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/IsUnsignedElementType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/Number/exponentiate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/Number/exponentiate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/OrdinarySetPrototypeOf.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/OrdinarySetPrototypeOf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/SetIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/SetIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/StringCreate.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/StringCreate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/TestIntegrityLevel.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/TestIntegrityLevel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/ToIntegerOrInfinity.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/ToIntegerOrInfinity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/UTF16SurrogatePairToCodePoint.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/2021/UTF16SurrogatePairToCodePoint.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/helpers/DefineOwnProperty.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/helpers/DefineOwnProperty.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2015.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2015.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2016.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2016.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2017.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2017.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2018.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2018.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2019.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2019.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2020.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2020.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2021.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/operations/2021.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/es-abstract/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue_project/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/public/static/CSS_menu/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/public/static/CSS_menu/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/components/Apk.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/components/Apk.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/components/Case.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/components/Case.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/components/Date.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/components/Date.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqrf_an/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/wqrf_an/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wqrf_an/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/wqrf_an/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +193,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -166,10 +312,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/myapp" />
-      <recent name="$PROJECT_DIR$/scripts/case" />
-      <recent name="$PROJECT_DIR$/vue_project/public/static/CSS_menu/img" />
-      <recent name="$PROJECT_DIR$/vue_project/src/components" />
+      <recent name="E:\Automation\wqrf_an\vue_project" />
+      <recent name="E:\Automation\wqrf_an\vue_project\public\static" />
+      <recent name="E:\Automation\wqrf_an\vue_project\public\static\CSS_menu" />
+      <recent name="E:\Automation\wqrf_an\vue_project\public" />
+      <recent name="E:\Automation\wqrf_an\vue_project\public\static\CSS_menu\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vue_project/public/static/CSS_menu/img" />
@@ -358,7 +505,12 @@
       <workItem from="1648642105859" duration="755000" />
       <workItem from="1648642869427" duration="681000" />
       <workItem from="1648647263805" duration="646000" />
-      <workItem from="1648647976136" duration="699000" />
+      <workItem from="1648647976136" duration="889000" />
+      <workItem from="1648649117083" duration="1262000" />
+      <workItem from="1648650392055" duration="786000" />
+      <workItem from="1648651284185" duration="696000" />
+      <workItem from="1648652019312" duration="284000" />
+      <workItem from="1648652478671" duration="944000" />
     </task>
     <task id="LOCAL-00001" summary="默认更改列表">
       <created>1648642628968</created>
@@ -388,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648647546113</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="six">
+      <created>1648648817026</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648648817026</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -444,7 +603,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="test2" />
     <MESSAGE value="test3" />
-    <option name="LAST_COMMIT_MESSAGE" value="test3" />
+    <MESSAGE value="six" />
+    <option name="LAST_COMMIT_MESSAGE" value="six" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wqrf_an$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1648366593646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/case" />

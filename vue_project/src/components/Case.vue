@@ -1,9 +1,9 @@
 <template>
   <div>
-    <button>脚本1</button>
-    <button>脚本2</button>
+    <button>选择脚本1</button>
+    <button>选择脚本2</button>
+    <button>选择脚本2</button>
   </div>
-
 </template>
 
 <script>
