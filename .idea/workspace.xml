@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f7ef36a-bfc9-486d-aed2-eac53f259811" name="默认更改列表" comment="默认更改列表">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>text-decoration</find>
+      <find>underline</find>
+      <find>underli</find>
+      <find>decoration</find>
+      <find>&lt;a</find>
+      <find>a {</find>
+      <find>Secondary Fixed Navigation</find>
+      <find>background.jpg</find>
+      <find>bo</find>
+      <find>bd-placeholder-img</find>
+      <find>list-group-checkable</find>
+      <find>list-group-item</find>
+      <find>params</find>
+      <find>开始执行</find>
+      <find>back.</find>
+      <find>用例名称</find>
+      <find>用例名称:</find>
+      <find>control-label</find>
+      <find>text-info</find>
+      <find>animation-text-info</find>
+      <find>col-sm-2</find>
+      <find>结果:</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/vue_project/src/components/Device.vue" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/myapp/admin.py" />
+        <option value="$PROJECT_DIR$/vue_project/vue.config.js" />
+        <option value="$PROJECT_DIR$/vue_project/src/App.vue" />
+        <option value="$PROJECT_DIR$/vue_project/src/main.js" />
+        <option value="$PROJECT_DIR$/vue_project/src/components/Child_com.vue" />
+        <option value="$PROJECT_DIR$/vue_project/public/index.html" />
+        <option value="$PROJECT_DIR$/vue_project/public/static/CSS_menu/index.html" />
+        <option value="$PROJECT_DIR$/vue_project/src/router.js" />
+        <option value="$PROJECT_DIR$/vue_project/src/components/device2.vue" />
+        <option value="$PROJECT_DIR$/vue_project/src/components/Device.vue" />
+        <option value="$PROJECT_DIR$/vue_project/src/components/Env.vue" />
+        <option value="$PROJECT_DIR$/vue_project/src/components/Apk.vue" />
+        <option value="$PROJECT_DIR$/wqrf_an/settings.py" />
+        <option value="$PROJECT_DIR$/test001.py" />
+        <option value="$PROJECT_DIR$/vue_project/public/static/CSS_menu/css/style.css" />
+        <option value="$PROJECT_DIR$/vue_project/src/views/New_home.vue" />
+        <option value="$PROJECT_DIR$/vue_project/src/components/Task.vue" />
+        <option value="$PROJECT_DIR$/vue_project/src/components/Case.vue" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/BeautifulReport/BeautifulReport.py" />
+        <option value="/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/BeautifulReport/template/template.html" />
+        <option value="$PROJECT_DIR$/myapp/tests2.py" />
+        <option value="$PROJECT_DIR$/myapp/tests.py" />
+        <option value="$PROJECT_DIR$/myapp/models.py" />
+        <option value="$PROJECT_DIR$/scripts/env/env_change.py" />
+        <option value="$PROJECT_DIR$/wqrf_an/urls.py" />
+        <option value="$PROJECT_DIR$/myapp/views.py" />
+        <option value="$PROJECT_DIR$/scripts/case/t1.py" />
+        <option value="$PROJECT_DIR$/run_cases.py" />
+        <option value="$PROJECT_DIR$/scripts/case/t2.py" />
+        <option value="$PROJECT_DIR$/vue_project/src/components/Data.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="222" />
+    <option name="y" value="25" />
+    <option name="width" value="1160" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectId" id="26yad0baMZBcENpZqNqjFd5qGxc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wqrf_an" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wqrf_an" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wqrf_an" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wqrf_an" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wqrf_an" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wqrf_an" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wqrf_an" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wqrf_an" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="env" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/myapp" />
+      <recent name="$PROJECT_DIR$/scripts/case" />
+      <recent name="$PROJECT_DIR$/vue_project/public/static/CSS_menu/img" />
+      <recent name="$PROJECT_DIR$/vue_project/src/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vue_project/public/static/CSS_menu/img" />
+      <recent name="$PROJECT_DIR$/vue_project/public/static/CSS_menu/back.jpeg" />
+      <recent name="$PROJECT_DIR$/vue_project/public/static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django Server.wqrf_an">
+    <configuration name="t1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wqrf_an" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/case/t1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="t2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wqrf_an" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/case/t2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wqrf_an" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="wqrf_an" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/myapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/myapp/tests2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wqrf_an" type="Python.DjangoServer" factoryName="Django server">
+      <module name="wqrf_an" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="wqrf_an.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.t2" />
+        <item itemvalue="Python.t1" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.tests2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f7ef36a-bfc9-486d-aed2-eac53f259811" name="默认更改列表" comment="" />
+      <created>1644732345469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644732345469</updated>
+      <workItem from="1644732348800" duration="6757000" />
+      <workItem from="1645247330790" duration="2889000" />
+      <workItem from="1645254897565" duration="3287000" />
+      <workItem from="1645333712879" duration="1694000" />
+      <workItem from="1645335623521" duration="6931000" />
+      <workItem from="1645801455289" duration="28000" />
+      <workItem from="1645852660264" duration="364000" />
+      <workItem from="1645853028268" duration="1000" />
+      <workItem from="1645853034368" duration="9000" />
+      <workItem from="1645853066121" duration="10651000" />
+      <workItem from="1645939066626" duration="13270000" />
+      <workItem from="1646542821299" duration="40000" />
+      <workItem from="1646542864379" duration="4298000" />
+      <workItem from="1646547213715" duration="15826000" />
+      <workItem from="1646648454697" duration="45000" />
+      <workItem from="1646653515107" duration="603000" />
+      <workItem from="1646736212997" duration="3507000" />
+      <workItem from="1646834145959" duration="598000" />
+      <workItem from="1646836158061" duration="3965000" />
+      <workItem from="1647062489764" duration="10534000" />
+      <workItem from="1647145644499" duration="1584000" />
+      <workItem from="1647149745912" duration="10692000" />
+      <workItem from="1647170958516" duration="664000" />
+      <workItem from="1647349015235" duration="413000" />
+      <workItem from="1647350537581" duration="1263000" />
+      <workItem from="1647657309636" duration="11331000" />
+      <workItem from="1647753964458" duration="9823000" />
+      <workItem from="1648264458228" duration="24000" />
+      <workItem from="1648265372438" duration="13043000" />
+      <workItem from="1648358346779" duration="8798000" />
+      <workItem from="1648398365444" duration="931000" />
+      <workItem from="1648399450030" duration="467000" />
+      <workItem from="1648468542003" duration="64000" />
+      <workItem from="1648469624901" duration="386000" />
+      <workItem from="1648471734885" duration="344000" />
+      <workItem from="1648472409680" duration="30000" />
+      <workItem from="1648472646317" duration="28000" />
+      <workItem from="1648475700810" duration="296000" />
+      <workItem from="1648476529269" duration="241000" />
+      <workItem from="1648482164087" duration="59000" />
+      <workItem from="1648557439746" duration="7000" />
+      <workItem from="1648557599057" duration="5000" />
+      <workItem from="1648558153447" duration="7000" />
+      <workItem from="1648641671282" duration="11000" />
+      <workItem from="1648641868902" duration="220000" />
+      <workItem from="1648642105859" duration="755000" />
+      <workItem from="1648642869427" duration="681000" />
+    </task>
+    <task id="LOCAL-00001" summary="默认更改列表">
+      <created>1648642628968</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648642628968</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="142932000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1369" height="875" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1951771" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.25868726" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32947233" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.35135135" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="调试" order="13" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="默认更改列表" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认更改列表" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/wqrf_an$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1648366593646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/case" />
+    <SUITE FILE_PATH="coverage/wqrf_an$tests.coverage" NAME="tests Coverage Results" MODIFIED="1648361003815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp" />
+    <SUITE FILE_PATH="coverage/wqrf_an$tests2.coverage" NAME="tests2 Coverage Results" MODIFIED="1648282338265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/myapp" />
+    <SUITE FILE_PATH="coverage/wqrf_an$t1.coverage" NAME="t1 Coverage Results" MODIFIED="1648362178390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/case" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-426">
+          <caret line="398" column="6" selection-start-line="398" selection-start-column="6" selection-end-line="398" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/babel.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/dist/static/img/logo.82b9c7a5.png" />
+    <entry file="file://$PROJECT_DIR$/vue_project/src/assets/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/dist/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/Child_com.vue" />
+    <entry file="file://$PROJECT_DIR$/vue_project/public/static/CSS_menu/img/cd-logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/public/static/CSS_menu/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/public/static/CSS_menu/js/modernizr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/public/static/CSS_menu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/public/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/public/static/CSS_menu/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/views/About.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/Apk2.vue" />
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/HelloWorld.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/device2.vue" />
+    <entry file="file://$PROJECT_DIR$/vue_project/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/Device.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="34" column="68" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/Env.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="29" column="81" selection-start-line="29" selection-start-column="71" selection-end-line="29" selection-end-column="81" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/Apk.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#form#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="292" column="50" lean-forward="true" selection-start-line="292" selection-start-column="18" selection-end-line="292" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqrf_an/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/public/static/CSS_menu/img/back.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/public/static/CSS_menu/img/back.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/public/static/CSS_menu/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="251" column="18" lean-forward="true" selection-start-line="251" selection-start-column="18" selection-end-line="251" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/views/New_home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="82" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="5" selection-end-column="82" />
+          <folding>
+            <element signature="n#style#0;n#video#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#nav#0;n#header#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#ul#0;n#nav#0;n#header#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#section#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#a#0;n#li#1;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#a#0;n#li#2;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#li#3;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#a#0;n#li#3;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#li#4;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#a#0;n#li#4;n#ul#0;n#nav#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#span#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#main#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#section#0;n#main#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#section#1;n#main#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#section#2;n#main#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#section#3;n#main#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#section#4;n#main#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/Task.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h5#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#thead#0;n#table#0;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/BeautifulReport/template/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7081" column="69" selection-start-line="7081" selection-start-column="69" selection-end-line="7081" selection-end-column="69" />
+          <folding>
+            <element signature="e#120802#120808#0" expanded="true" />
+            <element signature="e#121126#121132#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#td#5;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/BeautifulReport/BeautifulReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="337" column="63" lean-forward="true" selection-start-line="337" selection-start-column="63" selection-end-line="337" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/tests2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/env/env_change.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="235" lean-forward="true" selection-start-line="235" selection-end-line="235" />
+          <folding>
+            <element signature="e#252#454#0" />
+            <element signature="e#489#567#0" />
+            <element signature="e#605#1063#0" />
+            <element signature="e#785#1063#0" />
+            <element signature="e#1097#1241#0" />
+            <element signature="e#1275#1349#0" />
+            <element signature="e#1383#1513#0" />
+            <element signature="e#1548#1873#0" />
+            <element signature="e#1923#2320#0" />
+            <element signature="e#2008#2072#0" />
+            <element signature="e#2360#2519#0" />
+            <element signature="e#2559#2633#0" />
+            <element signature="e#2673#2788#0" />
+            <element signature="e#2829#3034#0" />
+            <element signature="e#3070#3394#0" />
+            <element signature="e#3432#3786#0" />
+            <element signature="e#3460#3563#0" />
+            <element signature="e#3819#4100#0" />
+            <element signature="e#4138#5017#0" />
+            <element signature="e#4356#4552#0" />
+            <element signature="e#4471#4552#0" />
+            <element signature="e#4594#4944#0" />
+            <element signature="e#4670#4910#0" />
+            <element signature="e#5057#5207#0" />
+            <element signature="e#5243#5481#0" />
+            <element signature="e#5307#5400#0" />
+            <element signature="e#5514#5873#0" />
+            <element signature="e#5921#6039#0" />
+            <element signature="e#6076#6374#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wqrf_an/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="46" column="49" selection-start-line="46" selection-start-column="49" selection-end-line="46" selection-end-column="49" />
+          <folding>
+            <element signature="e#631#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/case/t1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/case/t2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_cases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/Case.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="135" column="42" selection-start-line="135" selection-start-column="42" selection-end-line="135" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue_project/src/components/Data.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="109" lean-forward="true" selection-start-line="14" selection-start-column="109" selection-end-line="14" selection-end-column="109" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#tr#0;n#thead#0;n#table#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
