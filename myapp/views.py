@@ -23,13 +23,15 @@ def get_env_script(request):
     return HttpResponse(script)
 
 
-def upload_env_script(request):  # 接收上传的脚本文件--环境脚本
+def upload_env_script(request):
+    # 接收上传的这个文件-环境脚本
     myFile = request.FILES.get('upload_env_script', None)
-    if myFile == None:  # 判断接收文件是否为空
-        return HttpResponse('未选择任何本地文件：')
+    # 判断接收的是否为空
+    if myFile == None:
+        return HttpResponse('未选择任何本地文件！')
     else:  # 说明有内容
-        fileName = str(myFile)  # 拿到文件名
-        fp = open('Scripts/env/' + fileName, 'wb+')
+        fileName = str(myFile)  # 文件名拿到
+        fp = open('scripts/env/' + fileName, 'wb+')
         for i in myFile.chunks():
             fp.write(i)
         fp.close()
@@ -38,32 +40,34 @@ def upload_env_script(request):  # 接收上传的脚本文件--环境脚本
         return HttpResponseRedirect('/index/')
 
 
-# 查询
+# 查
 def get_cases(request):
     cases = list(DB_cases.objects.all().values())
     res = {"cases": cases}
     return HttpResponse(json.dumps(res), content_type='application/json')
 
 
-# 增加
+# 增
 def add_cases(request):
     DB_cases.objects.create()
     return get_cases(request)
 
 
-# 删除
+# 删
 def del_cases(request):
     case_id = request.GET['case_id']
     DB_cases.objects.filter(id=case_id).delete()
     return get_cases(request)
 
 
-# 修改
+# 改
 def save_cases(request):
     case_id = request.GET['case_id']
     new_name = request.GET['new_name']
     new_level = request.GET['new_level']
-    DB_cases.objects.filter(id=case_id).update(name=new_name, level=new_level)
+    new_ifut = request.GET['new_ifut']
+    new_ifut = False if new_ifut == 'false' else True
+    DB_cases.objects.filter(id=case_id).update(name=new_name, level=new_level, ifut=new_ifut)
     return get_cases(request)
 
 
@@ -80,3 +84,35 @@ def upload_case(request, case_id):
     fp.close()
     DB_cases.objects.filter(id=case_id).update(script=file_name)
     return HttpResponseRedirect('/index/')
+
+
+# 获取数据变量
+def get_datas(request):
+    datas = list(DB_datas.objects.all().values())  # 此时它才是 [{},{}]
+    res = {"datas": datas}
+    return HttpResponse(json.dumps(res), content_type='application/json')
+
+
+
+# 增加数据变量
+def add_datas(request):
+    DB_datas.objects.create()
+
+    return get_datas(request)
+
+
+# 删除数据变量
+def del_datas(request):
+    id = request.GET['id']
+    DB_datas.objects.filter(id=id).delete()
+    return get_datas(request)
+
+
+# 修改数据变量
+def save_datas(request):
+    id = request.GET['id']
+    new_name = request.GET['new_name']
+    new_value = request.GET['new_value']
+    DB_datas.objects.filter(id=id).update(name=new_name, value=new_value)
+    return get_datas(request)
+

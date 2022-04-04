@@ -73,32 +73,28 @@
     </div> <!-- .cd-secondary-nav -->
     <main class="cd-main-content">
       <section id="cd-placeholder-1" class="cd-section cd-container">
-        <h2>1.选择设备</h2>
+        <h2>1. 选择设备</h2>
         <Device @upd="upd"></Device>
-
       </section> <!-- #cd-placeholder-1 -->
 
       <section id="cd-placeholder-2" class="cd-section cd-container">
-        <h2>2.选择环境</h2>
+        <h2>2. 选择环境</h2>
         <Env @upe="upe"></Env>
-
       </section> <!-- #cd-placeholder-2 -->
 
       <section id="cd-placeholder-3" class="cd-section cd-container">
         <h2>3.选择脚本</h2>
         <Case @upc="upc"></Case>
-
       </section> <!-- #cd-placeholder-3 -->
 
       <section id="cd-placeholder-4" class="cd-section cd-container">
-        <h2>4.选择数据</h2>
-        <Date></Date>
-
+        <h2>4. 选择数据</h2>
+        <Data @upda="upda"></Data>
       </section> <!-- #cd-placeholder-4 -->
 
       <section id="cd-placeholder-5" class="cd-section cd-container">
         <h2>5.选择apk包</h2>
-        <Apk></Apk>
+        <Apk @upa="upa"></Apk>
 
       </section> <!-- #cd-placeholder-5 -->
     </main> <!-- .cd-main-content -->
@@ -110,10 +106,10 @@
 <script>
 import Device from "../components/Device.vue";
 import Task from "../components/Task.vue";
-import Env from "../components/Env";
-import Case from "../components/Case";
-import Date from "../components/Date";
-import Apk from "../components/Apk";
+import Env from "../components/Env.vue";
+import Case from "../components/Case.vue";
+import Data from "../components/Data.vue";
+import Apk from "../components/Apk.vue";
 
 
 export default {
@@ -144,12 +140,18 @@ export default {
     upc(e) {
       this.now_cases_count = e.now_cases_count
     },
-
-
+    upda(e) {
+      this.now_data_name = e.now_data_name
+      this.now_data_id = e.now_data_id
+    },
+    upa(e) {
+      this.now_apk_method = e.now_apk_method
+      this.now_apk_name = e.now_apk_name
+    },
   },
   components: {
     Apk,
-    Date,
+    Data,
     Case,
     Env,
     Task,

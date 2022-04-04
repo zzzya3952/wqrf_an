@@ -23,6 +23,15 @@ class DB_cases(models.Model):
     name = models.CharField(max_length=30, default='')
     script = models.CharField(max_length=50, default='')
     level = models.IntegerField(default=0)
+    ifut = models.BooleanField(default=True)  # 是否为unittest官方脚本
+
+    def __str__(self):
+        return self.name
+
+
+class DB_datas(models.Model):
+    name = models.CharField(max_length=30, default='')
+    value = models.TextField(default='{}')
 
     def __str__(self):
         return self.name
