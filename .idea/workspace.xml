@@ -4,29 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f7ef36a-bfc9-486d-aed2-eac53f259811" name="默认更改列表" comment="six3">
+    <list default="true" id="0f7ef36a-bfc9-486d-aed2-eac53f259811" name="默认更改列表" comment="six4，解决dist打包问题导致index访问失败">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue_project/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/CSS_menu/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/dist/static/CSS_menu/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/css/app.20847301.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/img/logo.82b9c7a5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/js/app.af99520b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/js/app.af99520b.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/js/chunk-vendors.8eb341cb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/js/chunk-vendors.8eb341cb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/css/app.d8737ade.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/js/app.e7ad377c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/js/app.e7ad377c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/js/chunk-vendors.85ae4029.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/dist/static/js/chunk-vendors.85ae4029.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/2e32b1bd0edf28a6f6b24fbf1a3f0962.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/2e32b1bd0edf28a6f6b24fbf1a3f0962.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/57b9982ce5b50f7e310f258d3e643339.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/57b9982ce5b50f7e310f258d3e643339.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/db684099201cb6d27f13e6801878d4ef.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/db684099201cb6d27f13e6801878d4ef.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/0da029c8bd730cfb63f0788616490a7b.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/0da029c8bd730cfb63f0788616490a7b.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/9593775ebe6c182c8351a33033cf6994.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/9593775ebe6c182c8351a33033cf6994.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/98078737de96ef505584a4c81c5cf07f.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/98078737de96ef505584a4c81c5cf07f.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/aec7c7b04b7d4799e2dd3243cdfdeec9.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/babel-loader/aec7c7b04b7d4799e2dd3243cdfdeec9.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/15d2b2504d9550ca984ce596cd8f77a8.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/15d2b2504d9550ca984ce596cd8f77a8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/1e96ba3e50b9fa0537486180549f5b82.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/1e96ba3e50b9fa0537486180549f5b82.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/22ff82b815872bbde1cc2b08b556589a.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/22ff82b815872bbde1cc2b08b556589a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/3c8bb1fcca1dad9b3bb97a86146f29df.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/3c8bb1fcca1dad9b3bb97a86146f29df.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/2766864cbbf298f3751e6e73375e1189.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/2766864cbbf298f3751e6e73375e1189.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/2ba5f0c4dec673a65bf121e5dc1be31d.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/2ba5f0c4dec673a65bf121e5dc1be31d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/2e2b5a42e0753a73f72aed23cbd4780b.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/2e2b5a42e0753a73f72aed23cbd4780b.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/543818410eea29d04af769e36eec2f81.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/543818410eea29d04af769e36eec2f81.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/5ed6b6218887578b360a7bae3626196d.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/5ed6b6218887578b360a7bae3626196d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/6141bada40e37e35080fc5f226b15e82.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/6141bada40e37e35080fc5f226b15e82.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/6c9024b9d96d8e1386575f1a34599996.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/6c9024b9d96d8e1386575f1a34599996.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/76ac9ce91d2835007a32fd33e0cfaf56.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/76ac9ce91d2835007a32fd33e0cfaf56.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/93eaa15e85c14ac58c80245639d838e6.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/93eaa15e85c14ac58c80245639d838e6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/b255261f5071399260c480e6bc807382.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/b255261f5071399260c480e6bc807382.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/a3e85c7e1ee92d68a9e79470ccd923cd.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/a3e85c7e1ee92d68a9e79470ccd923cd.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/b59976488786f32931906bf4c47c7552.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/b59976488786f32931906bf4c47c7552.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/d750057b5af13ea1e4f043ddb1496d2a.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/d750057b5af13ea1e4f043ddb1496d2a.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue_project/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wqrf_an/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/wqrf_an/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/b8e4b2ecf450c6a7811e8f9785803a76.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/b8e4b2ecf450c6a7811e8f9785803a76.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/d5a407f617c3ddc1be16b1f3cadb6536.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/d5a407f617c3ddc1be16b1f3cadb6536.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/d7cd814703d8752c9bf1372dfa8fbdc8.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/d7cd814703d8752c9bf1372dfa8fbdc8.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/f4abb7de7de2d22b3c09ea82fd7ec79d.json" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/node_modules/.cache/vue-loader/f4abb7de7de2d22b3c09ea82fd7ec79d.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/components/Case.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/components/Case.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/components/Device.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/components/Device.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/components/Env.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/components/Env.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue_project/src/views/New_home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue_project/src/views/New_home.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wqrf_an/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/wqrf_an/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -187,7 +201,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -391,7 +405,12 @@
       <workItem from="1648651284185" duration="696000" />
       <workItem from="1648652019312" duration="284000" />
       <workItem from="1648652478671" duration="944000" />
-      <workItem from="1648692963912" duration="1950000" />
+      <workItem from="1648692963912" duration="2303000" />
+      <workItem from="1648982568108" duration="1829000" />
+      <workItem from="1648984427953" duration="7054000" />
+      <workItem from="1648992132973" duration="7919000" />
+      <workItem from="1649000346020" duration="2836000" />
+      <workItem from="1649052871159" duration="2553000" />
     </task>
     <task id="LOCAL-00001" summary="默认更改列表">
       <created>1648642628968</created>
@@ -435,7 +454,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648693029015</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="six4，解决dist打包问题导致index访问失败">
+      <created>1648695373721</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648695373721</updated>
+    </task>
+    <task id="LOCAL-00008" summary="six4，解决dist打包问题导致index访问失败">
+      <created>1648695476663</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1648695476663</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -493,7 +526,8 @@
     <MESSAGE value="test3" />
     <MESSAGE value="six" />
     <MESSAGE value="six3" />
-    <option name="LAST_COMMIT_MESSAGE" value="six3" />
+    <MESSAGE value="six4，解决dist打包问题导致index访问失败" />
+    <option name="LAST_COMMIT_MESSAGE" value="six4，解决dist打包问题导致index访问失败" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wqrf_an$t2.coverage" NAME="t2 Coverage Results" MODIFIED="1648366593646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/case" />

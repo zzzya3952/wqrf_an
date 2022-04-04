@@ -10,3 +10,19 @@ class DB_devices(models.Model):
 
     def __str__(self):
         return self.name
+
+
+class DB_env_script(models.Model):  # 存放当前正在选择的脚本名字
+    script = models.CharField(max_length=50, default='')
+
+    def __str__(self):
+        return self.script
+
+
+class DB_cases(models.Model):
+    name = models.CharField(max_length=30, default='')
+    script = models.CharField(max_length=50, default='')
+    level = models.IntegerField(default=0)
+
+    def __str__(self):
+        return self.name

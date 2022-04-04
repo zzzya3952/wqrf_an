@@ -22,6 +22,7 @@
       </div> <!-- #cd-intro-tagline -->
     </section> <!-- #cd-intro -->
 
+
     <div class="cd-secondary-nav">
       <a style="text-decoration: none" href="#0" class="cd-secondary-nav-trigger">Menu<span></span></a>
       <!-- button visible on small devices -->
@@ -59,23 +60,33 @@
           </li>
         </ul>
       </nav>
+      <div style="text-align: center;margin-top: 3px">
+                <span
+                    style="color: white;background-color: #101621;font-size: xx-small;padding: 10px;border-radius: 0 0 10px 10px">
+                    【已选设备-{{
+                    now_deviceName
+                  }}】 【已选环境-{{ now_env }}】 【已选用例-{{ now_cases_count }}个】 【已选数据-{{
+                    now_data_name
+                  }}】 【安装方式-{{ now_apk_method }}】
+                </span>
+      </div>
     </div> <!-- .cd-secondary-nav -->
     <main class="cd-main-content">
       <section id="cd-placeholder-1" class="cd-section cd-container">
         <h2>1.选择设备</h2>
-        <Device></Device>
+        <Device @upd="upd"></Device>
 
       </section> <!-- #cd-placeholder-1 -->
 
       <section id="cd-placeholder-2" class="cd-section cd-container">
         <h2>2.选择环境</h2>
-        <Env></Env>
+        <Env @upe="upe"></Env>
 
       </section> <!-- #cd-placeholder-2 -->
 
       <section id="cd-placeholder-3" class="cd-section cd-container">
         <h2>3.选择脚本</h2>
-        <Case></Case>
+        <Case @upc="upc"></Case>
 
       </section> <!-- #cd-placeholder-3 -->
 
@@ -108,7 +119,10 @@ import Apk from "../components/Apk";
 export default {
   data() {
     return {
-      task_if_value: false
+      task_if_value: false,
+      now_deviceName: '',
+      now_env: '',
+      now_cases_count: '',
     }
   },
 
@@ -116,12 +130,31 @@ export default {
     help_shown() {
       alert('有问题请联系xxx')
     },
+
     task_btn() {
       this.task_if_value = !this.task_if_value
-    }
+    },
+
+    upd(e) {
+      this.now_deviceName = e.now_deviceName
+    },
+    upe(e) {
+      this.now_env = e.now_env
+    },
+    upc(e) {
+      this.now_cases_count = e.now_cases_count
+    },
+
 
   },
-  components: {Apk, Date, Case, Env, Task, Device},
+  components: {
+    Apk,
+    Date,
+    Case,
+    Env,
+    Task,
+    Device
+  },
 
 }
 
