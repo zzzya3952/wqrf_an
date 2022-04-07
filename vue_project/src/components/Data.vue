@@ -27,6 +27,7 @@
       </tbody>
     </table>
 
+
     <!-- 模态框 -->
     <div class="modal fade" id="myModal_2">
       <div class="modal-dialog modal-lg modal-dialog-centered">
@@ -55,6 +56,8 @@
         </div>
       </div>
     </div>
+
+
   </div>
 </template>
 

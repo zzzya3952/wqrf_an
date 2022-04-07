@@ -150,5 +150,4 @@ label {
   filter: none;
   opacity: .5
 }
-
 </style>

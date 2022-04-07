@@ -48,6 +48,7 @@ export default {
     up_apk_btn() {
       var now_apk_name = document.getElementById('up_apk_name').value;
       var l = now_apk_name.split('\\');
+      console.log(l)
       var res = l[l.length - 1]
       this.$emit('upa', {now_apk_method: $('input[name="aabbcc"]:checked').val(), now_apk_name: res})
     }

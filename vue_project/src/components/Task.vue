@@ -12,42 +12,35 @@
       </tr>
       </thead>
       <tbody>
-      <tr>
-        <td>测试环境任务</td>
-        <td>2022/2/26</td>
-        <td>启动中</td>
-        <td>
-          <a href="">终止</a> &#12288;
-          <a href="">查看报告</a>
-        </td>
-      </tr>
-      <tr>
-        <td>生产环境任务</td>
-        <td>2022/2/22</td>
-        <td>已关闭</td>
-        <td>
-          <a href="">终止</a> &#12288;
-          <a href="">查看报告</a>
-        </td>
-      </tr>
-      <tr>
-        <td>预发布任务</td>
-        <td>2022/2/16</td>
-        <td>已延期</td>
+      <tr v-for="task in tasks">
+        <td>{{ task.des }}</td>
+        <td>{{ task.stime }}</td>
+        <td>{{ task.state }}</td>
         <td>
           <a href="">终止</a> &#12288;
           <a href="">查看报告</a>
         </td>
       </tr>
       </tbody>
-    </table>
 
+    </table>
   </div>
 </template>
 
 <script>
-export default {
+import axios from "axios";
 
+export default {
+  data() {
+    return {
+      tasks: []
+    }
+  },
+  mounted: function () {
+    axios.get('http://localhost:8000/get_tasks/').then(res => {
+      this.tasks = res.data.tasks
+    })
+  },
   methods: {
     clos_test_div() {
       document.getElementById('task_id').style.display = 'none';
@@ -58,7 +51,7 @@ export default {
 
 <style>
 .task_div {
-  background-color: wheat;
+  background-color: white;
   width: 60%;
   height: 70%;
   position: absolute;
@@ -67,6 +60,7 @@ export default {
   z-index: 999;
   padding: 10px;
   border-radius: 5px;
+  overflow-y: auto;
 
 }
 </style>
